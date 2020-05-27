@@ -1,23 +1,14 @@
 {
   "columns": [
-    "PartNo",
-    "PartNo",
-    "PartNo",
-    "PartNo",
-    "PartNo",
-    "PartNo",
-    "PartNo",
-    "PartNo",
-    "PartNo",
-    "PartNo",
-    "PartNo",
-    "PartNo",
-    "PartNo",
-    "PartNo",
-    "PartNo",
-    "PartNo",
-    "PartNo",
-    "PartNo",
-    "PartNo"
+    "part_number",
+    "quantity",
+    "quantity_available",
+    "mfc_name",
+    "description",
+    "datasheet",
+    "image",
+    "mfc_id",
+    "min_qty",
+    "series"
     ]
 }
