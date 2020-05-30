@@ -1,16 +1,254 @@
-/*
 {
-  "columns": [
-    "part_number",
-    "quantity",
-    "quantity_available",
-    "mfc_name",
-    "description",
-    "datasheet",
-    "image",
-    "mfc_id",
-    "min_qty",
-    "series"
-    ]
+  "data": [
+    {
+      "part_details": [
+        {
+          "datasheet": "https://www.recom-power.com/pdf/Powerline-AC-DC/RAC03-SE_277_W.pdf",
+          "description": "AC/DC CONVERTER 5V 3W",
+          "image": "//media.digikey.com/Photos/Recom%20Power%20Inc/MFG_RAC03-SE_277_W.jpg",
+          "mfc_id": 9,
+          "mfc_name": "Recom Power",
+          "min_qty": 1,
+          "part_number": "RAC03-05SE/277/W",
+          "quantity_available": 534,
+          "series": "POWERLINE RAC03-E/277/W"
+        }
+      ],
+      "part_number": "RAC03-05SE/277/W"
+    },
+    {
+      "part_details": [
+        {
+          "datasheet": "http://www.deltapsu.com/products/download/Datasheet/PJT-12V40WBAA",
+          "description": "AC/DC CONVERTER 12V 40W",
+          "image": "//media.digikey.com/Photos/Delta%20Photos/PJT-12V40WBAA.jpg",
+          "mfc_id": 10,
+          "mfc_name": "Delta Electronics",
+          "min_qty": 1,
+          "part_number": "PJT-12V40WBAA",
+          "quantity_available": 301,
+          "series": "PJT"
+        }
+      ],
+      "part_number": "PJT-12V40WBAA"
+    },
+    {
+      "part_details": [
+        {
+          "datasheet": "http://www.deltapsu.com/products/download/Datasheet/PMT-5V50W1AA",
+          "description": "AC/DC CONVERTER 5V 50W",
+          "image": "//media.digikey.com/Photos/Delta%20Photos/PMT-5V50W1AA.jpg",
+          "mfc_id": 10,
+          "mfc_name": "Delta Electronics",
+          "min_qty": 1,
+          "part_number": "PMT-5V50W1AA",
+          "quantity_available": 135,
+          "series": "PMT"
+        }
+      ],
+      "part_number": "PMT-5V50W1AA"
+    },
+    {
+      "part_details": [
+        {
+          "datasheet": "http://nichicon-us.com/english/products/pdfs/e-pcj.pdf",
+          "description": "CAP ALUM POLY 270UF 20% 10V SMD",
+          "image": "//media.digikey.com/Photos/Nichicon%20Photos/CJ-SERIES-6.30mm.jpg",
+          "mfc_id": 1,
+          "mfc_name": "Nichicon",
+          "min_qty": 1,
+          "part_number": "PCJ1A271MCL1GS",
+          "quantity_available": 1940,
+          "series": "PCJ"
+        },
+        {
+          "datasheet": "http://nichicon-us.com/english/products/pdfs/e-pcj.pdf",
+          "description": "CAP ALUM POLY 270UF 20% 10V SMD",
+          "image": "//media.digikey.com/Photos/Nichicon%20Photos/CJ-SERIES-6.30mm.jpg",
+          "mfc_id": 2,
+          "mfc_name": "Panasonic Electronic Components",
+          "min_qty": 1,
+          "part_number": "PCJ1A271MCL1GS",
+          "quantity_available": 1940,
+          "series": "PCJ"
+        },
+        {
+          "datasheet": "http://nichicon-us.com/english/products/pdfs/e-pcj.pdf",
+          "description": "CAP ALUM POLY 270UF 20% 10V SMD",
+          "image": "//media.digikey.com/Photos/Nichicon%20Photos/CJ-SERIES-6.30mm.jpg",
+          "mfc_id": 1,
+          "mfc_name": "Nichicon",
+          "min_qty": 1,
+          "part_number": "PCJ1A271MCL1GS",
+          "quantity_available": 1940,
+          "series": "PCJ"
+        },
+        {
+          "datasheet": "http://nichicon-us.com/english/products/pdfs/e-pcj.pdf",
+          "description": "CAP ALUM POLY 270UF 20% 10V SMD",
+          "image": "//media.digikey.com/Photos/Nichicon%20Photos/CJ-SERIES-6.30mm.jpg",
+          "mfc_id": 2,
+          "mfc_name": "Panasonic Electronic Components",
+          "min_qty": 1,
+          "part_number": "PCJ1A271MCL1GS",
+          "quantity_available": 1940,
+          "series": "PCJ"
+        }
+      ],
+      "part_number": "PCJ1A271MCL1GS"
+    },
+    {
+      "part_details": [
+        {
+          "datasheet": "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+ABE0006+EEFSX0E331R+7+WW",
+          "description": "CAP ALUM POLY 330UF 20% 2.5V SMD",
+          "image": "//media.digikey.com/photos/Panasonic%20Photos/S%20SERIES%201.9H,7.3L.jpg",
+          "mfc_id": 2,
+          "mfc_name": "Panasonic Electronic Components",
+          "min_qty": 3500,
+          "part_number": "EEF-SX0E331R",
+          "quantity_available": 0,
+          "series": "SP-Cap SX"
+        },
+        {
+          "datasheet": "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+ABE0006+EEFSX0E331R+7+WW",
+          "description": "CAP ALUM POLY 330UF 20% 2.5V SMD",
+          "image": "//media.digikey.com/photos/Panasonic%20Photos/S%20SERIES%201.9H,7.3L.jpg",
+          "mfc_id": 2,
+          "mfc_name": "Panasonic Electronic Components",
+          "min_qty": 1,
+          "part_number": "EEF-SX0E331R",
+          "quantity_available": 2439,
+          "series": "SP-Cap SX"
+        },
+        {
+          "datasheet": "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+ABE0006+EEFSX0E331R+7+WW",
+          "description": "CAP ALUM POLY 330UF 20% 2.5V SMD",
+          "image": "//media.digikey.com/photos/Panasonic%20Photos/S%20SERIES%201.9H,7.3L.jpg",
+          "mfc_id": 2,
+          "mfc_name": "Panasonic Electronic Components",
+          "min_qty": 1,
+          "part_number": "EEF-SX0E331R",
+          "quantity_available": 2439,
+          "series": "SP-Cap SX"
+        },
+        {
+          "datasheet": "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+ABE0006+EEFSX0E331R+7+WW",
+          "description": "CAP ALUM POLY 330UF 20% 2.5V SMD",
+          "image": "//media.digikey.com/photos/Panasonic%20Photos/S%20SERIES%201.9H,7.3L.jpg",
+          "mfc_id": 2,
+          "mfc_name": "Panasonic Electronic Components",
+          "min_qty": 3500,
+          "part_number": "EEF-SX0E331R",
+          "quantity_available": 0,
+          "series": "SP-Cap SX"
+        },
+        {
+          "datasheet": "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+ABE0006+EEFSX0E331R+7+WW",
+          "description": "CAP ALUM POLY 330UF 20% 2.5V SMD",
+          "image": "//media.digikey.com/photos/Panasonic%20Photos/S%20SERIES%201.9H,7.3L.jpg",
+          "mfc_id": 2,
+          "mfc_name": "Panasonic Electronic Components",
+          "min_qty": 1,
+          "part_number": "EEF-SX0E331R",
+          "quantity_available": 2439,
+          "series": "SP-Cap SX"
+        },
+        {
+          "datasheet": "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+ABE0006+EEFSX0E331R+7+WW",
+          "description": "CAP ALUM POLY 330UF 20% 2.5V SMD",
+          "image": "//media.digikey.com/photos/Panasonic%20Photos/S%20SERIES%201.9H,7.3L.jpg",
+          "mfc_id": 2,
+          "mfc_name": "Panasonic Electronic Components",
+          "min_qty": 1,
+          "part_number": "EEF-SX0E331R",
+          "quantity_available": 2439,
+          "series": "SP-Cap SX"
+        },
+        {
+          "datasheet": "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+ABE0006+EEFSX0E331R+7+WW",
+          "description": "CAP ALUM POLY 330UF 20% 2.5V SMD",
+          "image": "//media.digikey.com/photos/Panasonic%20Photos/S%20SERIES%201.9H,7.3L.jpg",
+          "mfc_id": 2,
+          "mfc_name": "Panasonic Electronic Components",
+          "min_qty": 3500,
+          "part_number": "EEF-SX0E331R",
+          "quantity_available": 0,
+          "series": "SP-Cap SX"
+        },
+        {
+          "datasheet": "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+ABE0006+EEFSX0E331R+7+WW",
+          "description": "CAP ALUM POLY 330UF 20% 2.5V SMD",
+          "image": "//media.digikey.com/photos/Panasonic%20Photos/S%20SERIES%201.9H,7.3L.jpg",
+          "mfc_id": 2,
+          "mfc_name": "Panasonic Electronic Components",
+          "min_qty": 1,
+          "part_number": "EEF-SX0E331R",
+          "quantity_available": 2439,
+          "series": "SP-Cap SX"
+        },
+        {
+          "datasheet": "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+ABE0006+EEFSX0E331R+7+WW",
+          "description": "CAP ALUM POLY 330UF 20% 2.5V SMD",
+          "image": "//media.digikey.com/photos/Panasonic%20Photos/S%20SERIES%201.9H,7.3L.jpg",
+          "mfc_id": 2,
+          "mfc_name": "Panasonic Electronic Components",
+          "min_qty": 1,
+          "part_number": "EEF-SX0E331R",
+          "quantity_available": 2439,
+          "series": "SP-Cap SX"
+        }
+      ],
+      "part_number": "EEF-SX0E331R"
+    },
+    {
+      "part_details": [
+        {
+          "datasheet": "http://nichicon-us.com/english/products/pdfs/e-ple.pdf",
+          "description": "CAP ALUM POLY 560UF 20% 2.5V T/H",
+          "image": "//media.digikey.com/Photos/Nichicon%20Photos/PLE0J471MDO1.JPG",
+          "mfc_id": 1,
+          "mfc_name": "Nichicon",
+          "min_qty": 1000,
+          "part_number": "PLE0E561MCO1TD",
+          "quantity_available": 1000,
+          "series": "PLE"
+        },
+        {
+          "datasheet": "http://nichicon-us.com/english/products/pdfs/e-ple.pdf",
+          "description": "CAP ALUM POLY 560UF 20% 2.5V T/H",
+          "image": "//media.digikey.com/Photos/Nichicon%20Photos/PLE0J471MDO1.JPG",
+          "mfc_id": 1,
+          "mfc_name": "Nichicon",
+          "min_qty": 1,
+          "part_number": "PLE0E561MCO1TD",
+          "quantity_available": 1990,
+          "series": "PLE"
+        },
+        {
+          "datasheet": "http://nichicon-us.com/english/products/pdfs/e-ple.pdf",
+          "description": "CAP ALUM POLY 560UF 20% 2.5V T/H",
+          "image": "//media.digikey.com/Photos/Nichicon%20Photos/PLE0J471MDO1.JPG",
+          "mfc_id": 1,
+          "mfc_name": "Nichicon",
+          "min_qty": 1000,
+          "part_number": "PLE0E561MCO1TD",
+          "quantity_available": 1000,
+          "series": "PLE"
+        },
+        {
+          "datasheet": "http://nichicon-us.com/english/products/pdfs/e-ple.pdf",
+          "description": "CAP ALUM POLY 560UF 20% 2.5V T/H",
+          "image": "//media.digikey.com/Photos/Nichicon%20Photos/PLE0J471MDO1.JPG",
+          "mfc_id": 1,
+          "mfc_name": "Nichicon",
+          "min_qty": 1,
+          "part_number": "PLE0E561MCO1TD",
+          "quantity_available": 1990,
+          "series": "PLE"
+        }
+      ],
+      "part_number": "PLE0E561MCO1TD"
+    }
+  ]
 }
-**/
